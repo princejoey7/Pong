@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/user/source/project/project1/Pong/Content/baclground.png","C:/Users/user/source/project/project1/Pong/Content/bin/DesktopGL/baclground.xnb","TextureProcessor","Texture2DContent",45534,1843285,0.7374787
+"C:/Users/user/source/project/project1/Pong/Content/ball.png","C:/Users/user/source/project/project1/Pong/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",6630,4181,0.8815315
+"C:/Users/user/source/project/project1/Pong/Content/font.spritefont","C:/Users/user/source/project/project1/Pong/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,267295,1.5705619
+"C:/Users/user/source/project/project1/Pong/Content/paddle_cpu.png","C:/Users/user/source/project/project1/Pong/Content/bin/DesktopGL/paddle_cpu.xnb","TextureProcessor","Texture2DContent",5407,6229,0.0072973
+"C:/Users/user/source/project/project1/Pong/Content/paddle_player.png","C:/Users/user/source/project/project1/Pong/Content/bin/DesktopGL/paddle_player.xnb","TextureProcessor","Texture2DContent",5317,6229,0.0279268
